@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I'm currently working on **Management Information System (MIS) developed using PHP**
+- 🔭 I'm currently working on **Management Information System (MIS) using PHP**
 - 🌱 I'm currently learning **Lua Programming and Roblox Studio**
 - 📫 How to reach me **arifbadrus08@gmail.com**
 - ⚡ Fun fact **I press buttons professionally. 🎮**
