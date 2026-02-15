@@ -77,9 +77,9 @@
 <br>
 <br>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ariefbadrussholeh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div> -->
+</div>
 
 <hr>
 
