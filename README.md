@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arief Badrus Sholeh</h1>
-<h3 align="center">Software Engineer and Machine Learning Enthusiast</h3>
+<!-- <h1 align="center">Hi 👋, I'm Arief Badrus Sholeh</h1>
+<h3 align="center">Software Engineer and Machine Learning Enthusiast</h3> -->
+
+<div align="center">
+    <img src="github-header-banner.png" width="100%" max-width="600"/>
+</div>
 
 <br>
 
