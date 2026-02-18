@@ -27,6 +27,22 @@
 
 <br>
 
+<h3 align="left">Featured Project - Harmoni Quran</h3>
+<p align="left">
+Android application for automatic Qur'anic maqam detection.
+<br><br>
+This project was developed as an <b>undergraduate thesis</b> focusing on maqam classification in Qur'anic recitations (mujawwad style) using Deep Learning.  
+The system uses a <b>Deep Artificial Neural Network (ANN)</b> architecture and achieved an accuracy of <b>96.9%</b>.
+</p>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=joFRZEfxIts" target="_blank">
+    <img src="https://img.youtube.com/vi/joFRZEfxIts/maxresdefault.jpg" width="700"/>
+  </a>
+</div>
+
+<br>
+
 <h3 align="left">Connect with me</h3>
 <div align="left">
   <a href="https://github.com/ariefbadrussholeh" target="_blank">
