@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ariefbadrussholeh&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ariefbadrussholeh&theme=dark&hide_border=false&cache_seconds=1800" />
 </div>
 
 <br>
