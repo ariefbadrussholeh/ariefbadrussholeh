@@ -13,6 +13,13 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariefbadrussholeh&theme=github-dark" />
+</div>
+
+<br>
+<br>
+
 - 🔭 I'm currently working on **Management Information System (MIS) using PHP**
 - 🌱 I'm currently learning **Lua Programming and Roblox Studio**
 - 📫 How to reach me **arifbadrus08@gmail.com**
