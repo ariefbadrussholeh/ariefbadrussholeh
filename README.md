@@ -60,45 +60,52 @@ This project was completed as an <b>A-graded undergraduate thesis</b>, focusing 
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/>
+</div>
+<br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+</div>
+<br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/>
+</div>
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/>
+</div>
+<br>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/>
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/>
 </div>
-
 <br>
 <br>
 
