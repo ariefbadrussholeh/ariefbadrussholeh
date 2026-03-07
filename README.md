@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/ariefbadrussholeh/ariefbadrussholeh/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
     <img src="github-header-banner.png" width="100%" max-width="600"/>
 </div>
