@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/ariefbadrussholeh/ariefbadrussholeh/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ariefbadrussholeh/ariefbadrussholeh/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align="center">
     <img src="github-header-banner.png" width="100%" max-width="600"/>
@@ -111,9 +111,9 @@ This project was completed as an <b>A-graded undergraduate thesis</b>, focusing 
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ariefbadrussholeh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+</div> -->
 
 <hr>
 
