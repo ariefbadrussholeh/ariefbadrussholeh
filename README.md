@@ -1,8 +1,10 @@
-![Snake animation](https://github.com/ariefbadrussholeh/ariefbadrussholeh/raw/output/github-snake.svg)
-
 <div align="center">
     <img src="github-header-banner.png" width="100%" max-width="600"/>
 </div>
+
+<br>
+
+![Snake animation](https://github.com/ariefbadrussholeh/ariefbadrussholeh/raw/output/github-snake-dark.svg)
 
 <br>
 
