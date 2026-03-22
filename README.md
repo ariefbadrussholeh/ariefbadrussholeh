@@ -9,7 +9,9 @@
 <br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ariefbadrussholeh&theme=dark&hide_border=false&cache_seconds=1800" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ariefbadrussholeh&theme=dark" />
+  </a>
 </div>
 
 <br>
