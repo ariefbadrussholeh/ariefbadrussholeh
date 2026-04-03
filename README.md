@@ -23,8 +23,8 @@
 <br>
 <br>
 
-- 🔭 I'm currently working on **Management Information System (MIS) using PHP**
-- 🌱 I'm currently learning **Lua Programming and Roblox Studio**
+- 🔭 I'm currently working on **Hospital Management Information System using PHP**
+- 🌱 I'm currently learning about **Lua Programming and Roblox Studio**
 - 📫 How to reach me **arifbadrus08@gmail.com**
 - ⚡ Fun fact **I press buttons professionally. 🎮**
 
