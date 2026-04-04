@@ -34,7 +34,7 @@
 <p align="left">
 An Android application for automatic Qur'anic maqam detection.
 <br><br>
-This project was completed as an <b>A-graded undergraduate thesis</b>, focusing on the classification of maqam in Qur'anic recitations (mujawwad style) using Deep Learning. The proposed system utilized a <b>Deep Artificial Neural Network (ANN)</b> and achieved a classification accuracy of <b>96.9%</b>.
+This project was completed as an <b>A-graded undergraduate thesis</b>, focusing on the classification of maqam in Qur'anic recitations (mujawwad style) using Deep Learning. The proposed system utilized a <b>Deep Artificial Neural Network (ANN)</b> and achieved a classification accuracy of <b>96.9%</b>. The application was developed using <b>Android (Kotlin)</b>, with the model deployed using <b>TensorFlow Lite</b>. Additionally, <b>Chaquopy</b> was integrated to enable Python execution within the Android app for data preprocessing and inference.
 </p>
 
 <br>
