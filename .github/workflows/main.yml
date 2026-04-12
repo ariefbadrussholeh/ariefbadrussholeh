@@ -25,6 +25,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Set git identity
+        run: |
+          git config --global user.name "Arief Badrus Sholeh"
+          git config --global user.email "arifbadrus08@gmail.com"
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
